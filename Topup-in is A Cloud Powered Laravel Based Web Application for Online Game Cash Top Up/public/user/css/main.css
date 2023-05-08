@@ -1,0 +1,16 @@
+.h-50{
+    height: 225px !important;
+    object-fit: cover;
+}
+
+.radius-none{
+    border-radius: 0px !important;
+}
+
+.radius-6{
+    border-radius: 6px !important;
+}
+
+.bg-main{
+    background-color: #9A616D !important;
+}
